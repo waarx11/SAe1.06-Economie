@@ -1,0 +1,20 @@
+.navbar-nav{
+	margin-right: 150px;
+}
+.nav-link:hover{
+	color: orange;
+	border-bottom: 1px solid gold;
+}
+.navbar-brand{
+	border: 2px solid red;
+	position: relative;
+	left: 200px;
+}
+body {
+	text-align: center;
+	background-color: white;
+}
+hr {
+	background-color: grey;
+	color: grey;
+}
