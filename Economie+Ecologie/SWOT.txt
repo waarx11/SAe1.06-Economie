@@ -1,18 +1,30 @@
 &&&&& Forces : &&&&&
  -> Un site lisible et simple d'utilisation
+	Important pour ne pas faire fuire le client si il a ouvre le site internet pour la première fois
  -> Des shakers non fait de plastique
+	On touche tous les clients qui recherches de la qualité et qui ont une conscience écologique
+ -> Des shakers en éditions limité en partanariat
+	Permet de faire éventuellement racheter un shaker à un client
+	Peut aussi encourager un éventuel client à acheter pour la première fois
+	Permet de bénéficier de l'image de marque des partenaires
+ -> Large choix de poudres 100% naturelles
+	Le large choix permet de faire varier les plaisirs et permet de garder le client plus longtemps
+	Le fait qu'elles soient naturelles permet d'attirer à nous les clients qui ont une conscience écologique
 
 &&&&& Faiblesses : &&&&&
  -> Peut être sujet à des bugs informatiques
  -> Seul support de vente : numérique
+	Peut être problèmatique lors de pannes sur le site internet
 
 &&&&& Menaces : &&&&&
  -> Problèmes numériques (panne ou bug mondial)
  -> Innovations numériques
+	Si il 
  -> Augmentation du coût de livraison
-	Pénuries de carburants ou de personnels livrant
+	Pénuries de carburants ou de personnels livrant, le prix de la livraison augmente et donc les prix augmentent
 
-&&&&& Oppotunitées : &&&&&
+&&&&& Opportunitées : &&&&&
  -> Confinement
+	Toutes les personnes se fournissant dans des boutiques sont de potentiel client dans une situation de confinement
  -> Marché du fitness en plein essor
 
