@@ -72,8 +72,7 @@ th{
 .inv{
 	border-style: solid;
 	border-width: 3px;
-	border-left-color: grey;
-	border-bottom-color: grey;
+	border: none;
 }
 
 .marg{

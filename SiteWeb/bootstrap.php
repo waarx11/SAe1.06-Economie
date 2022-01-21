@@ -113,16 +113,16 @@ if (isset($_POST['isSubmit']) && $_POST['isSubmit']==1) {
             <td>Volonté de l'entreprise de se démarquer de la concurrence sur le plan écologique
                 <br>On touche tous types de clientèle qui recherches de la qualité et qui ont une conscience écologique ou volonté écologique.
                 <br>→ Ex : Des shakers non fait de plastique & poudres 100% naturelles</td>
-            <td>The table body</td>
+            <td class="inv"></td>
         </tr>
         <tr>
             <td> Diversification des produits
                 <br>Ex : Shakers en édition limitée en partenariat & large choix de poudre (goûts et couleurs)</td>
-            <td>The table body</td>
+            <td class="inv"></td>
         </tr>
         <tr>
             <td>L’entreprise est en partenariat avec des salles de sports qui vont vendre les produits et donc amélioré la notoriété de l’entreprise</td>
-            <td>The table body</td>
+            <td class="inv"></td>
         </tr>
     </tbody>
 </table>
