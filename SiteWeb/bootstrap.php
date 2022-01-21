@@ -231,6 +231,9 @@ if (isset($_POST['isSubmit']) && $_POST['isSubmit']==1) {
 </div>
 
 <h2 id="ancre5">Contact</h2>
+<br>
+<h3>Signaler un problèmes</h3>
+<br>
 <article>
     <div>
         <form action="bootstrap.php" method="POST">
